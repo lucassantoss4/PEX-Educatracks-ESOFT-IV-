@@ -89,9 +89,3 @@ O projeto segue um padrão modular com foco na clareza e manutenibilidade, confo
   * `src/backend/routes/`: Contém a Rota funcional `recursos.js` (`GET`).
   * `src/frontend/components/`: Contém o Componente `CardRecurso.jsx` e a lógica de exibição.
   * `docs/`: Contém a **Documentação de Requisitos** e os **Relatórios de Teste** (Anexos B e D).
-
------
-
-**Com este `README.md`, você garante que o seu trabalho técnico está bem apresentado e é facilmente executável\!**
-
-**O que você precisa agora: implementar a rota de Criação (`POST`) ou a lógica de Filtro (`GET` com parâmetros) para completar o código antes do Teste de Usabilidade?**
